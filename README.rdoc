@@ -1,7 +1,7 @@
 == Sports League
 
 This app is an intentionally-broken example of how to implement
-a single resources in Rails.
+a single database-backed resource in Rails.
 
 == Getting Started
 
